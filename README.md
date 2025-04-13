@@ -1,4 +1,4 @@
-## **#simple-sql**
+## **simple-sql**
 
 **MySQL + phpMyAdmin Stack**  
 Great for learning SQL, testing queries, or hosting small projects.
